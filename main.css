@@ -1,0 +1,39 @@
+body {
+	font-family: 'Alegreya', serif;
+}
+
+.icon {
+	font-size: 25px;
+	display: inline;
+}
+
+.navbar-small { 
+	padding-top: 0.25rem; 
+	padding-bottom: 0.25rem; 
+}
+
+.top-image {
+	width: 65%;
+}
+
+.borderless-card {
+	border: none;
+}
+
+.quote {
+	font-size: 1.5rem;
+}
+
+.large-quote {
+	font-size: 2.0rem;
+}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1300px;
+    }
+}
+
+#heading-tagline {
+	text-align: center;
+}
